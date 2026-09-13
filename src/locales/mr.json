@@ -1,0 +1,139 @@
+{
+  "appName": "प्रवाह (PRAVAH)",
+  "appTagline": "पाण्यासाठी बुद्धिमत्ता. सर्वांसाठी सुरक्षा.",
+  "appSubtitle": "भारतासाठी एआय-संचलित धरण नियंत्रण व पूर सुरक्षा प्रणाली",
+  "nav": {
+    "dashboard": "डॅशबोर्ड",
+    "damMonitoring": "धरण देखरेख",
+    "liveMap": "थेट नकाशा",
+    "floodPrediction": "पूर अंदाज",
+    "weatherForecast": "हवामान अंदाज",
+    "alerts": "आपत्कालीन सूचना",
+    "safeRoutes": "सुरक्षित मार्ग",
+    "allDams": "सर्व धरणे",
+    "reports": "अहवाल व विश्लेषण",
+    "settings": "सेटिंग्ज",
+    "emergencySos": "आपत्कालीन SOS",
+    "collapse": "आकुंचित करा",
+    "expand": "विस्तार करा"
+  },
+  "status": {
+    "normal": "सामान्य / सुरक्षित",
+    "warning": "इशारा पातळी",
+    "critical": "धोकादायक",
+    "resolved": "निवारण",
+    "standby": "तयारी",
+    "mandatory": "तातडीने स्थलांतर"
+  },
+  "dashboard": {
+    "statsTitle": "राष्ट्रीय जलविज्ञान टेलिमेट्री विहंगावलोकन",
+    "totalDamsMonitored": "एकूण धरणे",
+    "normalStatus": "सामान्य स्थिती",
+    "warningLevel": "इशारा पातळी",
+    "criticalDanger": "धोकादायक स्थिती",
+    "activeEmergencyAlerts": "सक्रिय इशारे",
+    "peopleAtRisk": "बाधित लोकसंख्या अंदाज",
+    "liveMonitoringGrid": "थेट धरण माहिती प्रवाह",
+    "waterLevelAnalysis": "धरण जलसाठा विश्लेषण",
+    "rainfallOverview": "२४ तासांतील पाऊस",
+    "floodRiskIndex": "पूर संवेदनशीलता निर्देशांक",
+    "lastSync": "आत्ताच अद्ययावत"
+  },
+  "dams": {
+    "searchPlaceholder": "धरण, नदी किंवा जिल्ह्यानुसार शोधा...",
+    "stateFilter": "राज्य",
+    "basinFilter": "नदी खोरे",
+    "riskFilter": "धोका पातळी",
+    "allStates": "सर्व राज्ये",
+    "allBasins": "सर्व खोरी",
+    "allRisks": "सर्व पातळी",
+    "waterLevel": "पाणी पातळी",
+    "capacity": "एकूण क्षमता",
+    "inflow": "आवक",
+    "outflow": "विसर्ग",
+    "gates": "उघडे दरवाजे",
+    "rainfall": "पाऊस",
+    "healthScore": "रचनात्मक आरोग्य",
+    "viewOnMap": "नकाशावर पहा",
+    "viewDetails": "सविस्तर माहिती",
+    "fullReservoirLevel": "पूर्ण जलपातळी (FRL)",
+    "dangerLevel": "धोका पातळी"
+  },
+  "map": {
+    "title": "थेट पूर धोका नकाशा",
+    "legendTitle": "नकाशा स्तर",
+    "userLocation": "तुमचे सध्याचे स्थान",
+    "dangerZone": "अतिधोका क्षेत्र (लाल)",
+    "warningZone": "सावधानता क्षेत्र (पिवळा)",
+    "safeZone": "सुरक्षित क्षेत्र (हिरवा)",
+    "shelterPoints": "निवारा शिबिरे",
+    "evacuationRoute": "सुरक्षित मार्ग (निळा)",
+    "showDams": "धरणे दाखवा",
+    "showShelters": "आश्रय दाखवा",
+    "showFloodZones": "पूर क्षेत्रे दाखवा",
+    "radarLayer": "रडार पाऊस",
+    "locateMe": "माझे स्थान",
+    "viewSafeRoute": "सुरक्षित मार्ग शोधा"
+  },
+  "flood": {
+    "title": "एआय पूर अंदाज प्रणाली",
+    "subtitle": "रिअल-टाईम सेन्सर आणि उपग्रह माहितीवर आधारित",
+    "riskScore": "अपेक्षित पूर धोका",
+    "arrivalTime": "पूर पोहोचण्याची वेळ",
+    "affectedDistricts": "प्रभावित जिल्हे",
+    "recommendations": "एआय सुरक्षा निर्देश",
+    "spillwayRecommendation": "शिफारस केलेला विसर्ग",
+    "modelConfidence": "अचूकता"
+  },
+  "weather": {
+    "title": "हवामान व पाऊस",
+    "currentTemp": "तापमान",
+    "humidity": "आर्द्रता",
+    "wind": "वाऱ्याचा वेग",
+    "precipitation": "पावसाची तीव्रता",
+    "accumulated": "एकूण पाऊस",
+    "forecast24h": "२४ तासांचा अंदाज"
+  },
+  "alerts": {
+    "title": "आपत्कालीन पूर इशारे",
+    "criticalTab": "गंभीर इशारे",
+    "warningTab": "सूचना",
+    "resolvedTab": "निवारण झालेले",
+    "broadcastNotice": "केंद्रीय जल आयोग सूचना",
+    "protocol": "नागरिक सुरक्षा उपाय"
+  },
+  "routes": {
+    "title": "सुरक्षित स्थलांतर मार्ग",
+    "subtitle": "पाण्याखाली गेलेले रस्ते टाळून सुरक्षित वाट",
+    "origin": "सध्याचे स्थान",
+    "destination": "जवळचा निवारा",
+    "safetyScore": "मार्ग सुरक्षा रेटिंग",
+    "startStepByStep": "मार्गदर्शन सुरू करा"
+  },
+  "chatbot": {
+    "title": "प्रवाह एआय सहाय्यक",
+    "tagline": "त्वरित मदत आणि मार्गदर्शक",
+    "placeholder": "'मी सुरक्षित आहे का?', 'सुरक्षित मार्ग दाखवा'...",
+    "send": "पाठवा",
+    "quick1": "मी सुरक्षित आहे का?",
+    "quick2": "सुरक्षित मार्ग दाखवा",
+    "quick3": "धरणाची स्थिती",
+    "quick4": "जवळचा निवारा"
+  },
+  "reports": {
+    "title": "अहवाल व डाउनलोड",
+    "waterReport": "जलपातळी अहवाल (PDF)",
+    "rainfallReport": "पाऊस अहवाल (Excel)",
+    "safetyReport": "धरण सुरक्षा अहवाल",
+    "simulationReport": "पूर सिम्युलेशन",
+    "download": "डाउनलोड करा"
+  },
+  "settings": {
+    "title": "सिस्टम सेटिंग्ज",
+    "profile": "प्रोफाइल",
+    "language": "भाषा",
+    "notifications": "सूचना",
+    "geoTracking": "स्थान ट्रॅकिंग",
+    "soundAlerts": "सायरन आवाज"
+  }
+}

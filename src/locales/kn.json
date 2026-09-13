@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "ನೀರಿಗಾಗಿ ಬುದ್ಧಿವಂತಿಕೆ. ಎಲ್ಲರಿಗೂ ಸುರಕ್ಷತೆ.",
+  "appSubtitle": "ಭಾರತಕ್ಕಾಗಿ AI ಆಧಾರಿತ ಅಣೆಕಟ್ಟು ಮೇಲ್ವಿಚಾರಣೆ ಮತ್ತು ಪ್ರವಾಹ ಸುರಕ್ಷತಾ ವೇದಿಕೆ",
+  "nav": {
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "damMonitoring": "ಅಣೆಕಟ್ಟು ಮೇಲ್ವಿಚಾರಣೆ",
+    "liveMap": "ಲೈವ್ ನಕ್ಷೆ",
+    "floodPrediction": "ಪ್ರವಾಹ ಮುನ್ಸೂಚನೆ",
+    "weatherForecast": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ",
+    "alerts": "ತುರ್ತು ಎಚ್ಚರಿಕೆಗಳು",
+    "safeRoutes": "ಸುರಕ್ಷಿತ ಮಾರ್ಗಗಳು",
+    "allDams": "ಎಲ್ಲಾ ಅಣೆಕಟ್ಟುಗಳು",
+    "reports": "ವರದಿಗಳು",
+    "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "emergencySos": "ತುರ್ತು SOS",
+    "collapse": "ಕುಗ್ಗಿಸಿ",
+    "expand": "ವಿಸ್ತರಿಸಿ"
+  },
+  "status": {
+    "normal": "ಸಾಮಾನ್ಯ / ಸುರಕ್ಷಿತ",
+    "warning": "ಎಚ್ಚರಿಕೆ ಮಟ್ಟ",
+    "critical": "ತೀವ್ರ ಅಪಾಯ",
+    "resolved": "ಪರಿಹರಿಸಲಾಗಿದೆ",
+    "standby": "ಸಿದ್ಧತೆ",
+    "mandatory": "ಕಡ್ಡಾಯ ಸ್ಥಳಾಂತರ"
+  },
+  "dashboard": {
+    "statsTitle": "ರಾಷ್ಟ್ರೀಯ ಜಲಮಾಪನ ಅವಲೋಕನ",
+    "totalDamsMonitored": "ಒಟ್ಟು ಅಣೆಕಟ್ಟುಗಳು",
+    "normalStatus": "ಸಾಮಾನ್ಯ ಸ್ಥಿತಿ",
+    "warningLevel": "ಎಚ್ಚರಿಕೆ ಮಟ್ಟ",
+    "criticalDanger": "ತೀವ್ರ ಅಪಾಯ",
+    "activeEmergencyAlerts": "ಸಕ್ರಿಯ ಎಚ್ಚರಿಕೆಗಳು",
+    "peopleAtRisk": "ಅಪಾಯದಲ್ಲಿರುವ ಜನರು",
+    "liveMonitoringGrid": "ಲೈವ್ ಅಣೆಕಟ್ಟು ಮಾಹಿತಿ",
+    "waterLevelAnalysis": "ನೀರಿನ ಮಟ್ಟ ವಿಶ್ಲೇಷಣೆ",
+    "rainfallOverview": "24 ಗಂಟೆಗಳ ಮಳೆ",
+    "floodRiskIndex": "ಪ್ರವಾಹ ಅಪಾಯ ಸೂಚ್ಯಂಕ",
+    "lastSync": "ಈಗಷ್ಟೇ ನವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "dams": {
+    "searchPlaceholder": "ಅಣೆಕಟ್ಟು ಹೆಸರು, ನದಿ ಅಥವಾ ಜಿಲ್ಲೆಯ ಮೂಲಕ ಹುಡುಕಿ...",
+    "stateFilter": "ರಾಜ್ಯ",
+    "basinFilter": "ನದಿ ಕಣಿವೆ",
+    "riskFilter": "ಅಪಾಯ ಸ್ಥಿತಿ",
+    "allStates": "ಎಲ್ಲಾ ರಾಜ್ಯಗಳು",
+    "allBasins": "ಎಲ್ಲಾ ಕಣಿವೆಗಳು",
+    "allRisks": "ಎಲ್ಲಾ ಮಟ್ಟಗಳು",
+    "waterLevel": "ನೀರಿನ ಮಟ್ಟ",
+    "capacity": "ಒಟ್ಟು ಸಾಮರ್ಥ್ಯ",
+    "inflow": "ಒಳಹರಿವು",
+    "outflow": "ಹೊರಹರಿವು",
+    "gates": "ತೆರೆದ ಗೇಟುಗಳು",
+    "rainfall": "ಮಳೆ ಪ್ರಮಾಣ",
+    "healthScore": "ರಚನಾತ್ಮಕ ಆರೋಗ್ಯ",
+    "viewOnMap": "ನಕ್ಷೆಯಲ್ಲಿ ನೋಡಿ",
+    "viewDetails": "ವಿವರಗಳು",
+    "fullReservoirLevel": "ಪೂರ್ಣ ಜಲಾಶಯ ಮಟ್ಟ (FRL)",
+    "dangerLevel": "ಅಪಾಯ ಮಟ್ಟ"
+  },
+  "map": {
+    "title": "ರಾಷ್ಟ್ರೀಯ ಪ್ರವಾಹ ಅಪಾಯ ನಕ್ಷೆ",
+    "legendTitle": "ನಕ್ಷೆಯ ಪದರಗಳು",
+    "userLocation": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಸ್ಥಳ",
+    "dangerZone": "ಅತಿ ಅಪಾಯದ ವಲಯ (ಕೆಂಪು)",
+    "warningZone": "ಎಚ್ಚರಿಕೆಯ ವಲಯ (ಹಳದಿ)",
+    "safeZone": "ಸುರಕ್ಷಿತ ವಲಯ (ಹಸಿರು)",
+    "shelterPoints": "ಪರಿಹಾರ ಕೇಂದ್ರಗಳು",
+    "evacuationRoute": "ಸುರಕ್ಷಿತ ಮಾರ್ಗ (ನೀಲಿ)",
+    "showDams": "ಅಣೆಕಟ್ಟುಗಳನ್ನು ತೋರಿಸಿ",
+    "showShelters": "ಆಶ್ರಯಗಳನ್ನು ತೋರಿಸಿ",
+    "showFloodZones": "ಪ್ರವಾಹ ವಲಯಗಳನ್ನು ತೋರಿಸಿ",
+    "radarLayer": "ರಾಡಾರ್ ಮಳೆ",
+    "locateMe": "ನನ್ನ ಸ್ಥಳ",
+    "viewSafeRoute": "ಸುರಕ್ಷಿತ ಮಾರ್ಗ ಹುಡುಕಿ"
+  },
+  "flood": {
+    "title": "AI ಪ್ರವಾಹ ಮುನ್ಸೂಚನೆ ವ್ಯವಸ್ಥೆ",
+    "subtitle": "ಉಪಗ್ರಹ ಮತ್ತು ಸಂವೇದಕ ಆಧಾರಿತ ಮಾದರಿ",
+    "riskScore": "ಅಂದಾಜು ಗರಿಷ್ಠ ಅಪಾಯ",
+    "arrivalTime": "ಪ್ರವಾಹ ಬರುವ ಸಮಯ",
+    "affectedDistricts": "ಬಾಧಿತ ಜಿಲ್ಲೆಗಳು",
+    "recommendations": "AI ಸುರಕ್ಷತಾ ಸಲಹೆಗಳು",
+    "spillwayRecommendation": "ಶಿಫಾರಸು ಮಾಡಿದ ನೀರು ಬಿಡುಗಡೆ",
+    "modelConfidence": "ನಿಖರತೆ"
+  },
+  "weather": {
+    "title": "ಹವಾಮಾನ ಮತ್ತು ಮಳೆ",
+    "currentTemp": "ತಾಪಮಾನ",
+    "humidity": "ತೇವಾಂಶ",
+    "wind": "ಗಾಳಿಯ ವೇಗ",
+    "precipitation": "ಮಳೆಯ ತೀವ್ರತೆ",
+    "accumulated": "ಒಟ್ಟು ಮಳೆ",
+    "forecast24h": "24 ಗಂಟೆಗಳ ಮುನ್ಸೂಚನೆ"
+  },
+  "alerts": {
+    "title": "ತುರ್ತು ಪ್ರವಾಹ ಎಚ್ಚರಿಕೆಗಳು",
+    "criticalTab": "ತೀವ್ರ ಎಚ್ಚರಿಕೆಗಳು",
+    "warningTab": "ಸಲಹೆಗಳು",
+    "resolvedTab": "ಪರಿಹರಿಸಲಾಗಿದೆ",
+    "broadcastNotice": "ಕೇಂದ್ರ ಜಲ ಆಯೋಗದ ಪ್ರಕಟಣೆ",
+    "protocol": "ಅನುಸರಿಸಬೇಕಾದ ಕ್ರಮಗಳು"
+  },
+  "routes": {
+    "title": "ಸುರಕ್ಷಿತ ಸ್ಥಳಾಂತರ ಮಾರ್ಗ",
+    "subtitle": "ಪ್ರವಾಹಕ್ಕೊಳಗಾದ ರಸ್ತೆಗಳನ್ನು ತಪ್ಪಿಸಿ ಮಾರ್ಗದರ್ಶನ",
+    "origin": "ಪ್ರಸ್ತುತ ಸ್ಥಳ",
+    "destination": "ಹತ್ತಿರದ ಆಶ್ರಯ",
+    "safetyScore": "ಮಾರ್ಗ ಸುರಕ್ಷತಾ ಸ್ಕೋರ್",
+    "startStepByStep": "ನ್ಯಾವಿಗೇಷನ್ ಪ್ರಾರಂಭಿಸಿ"
+  },
+  "chatbot": {
+    "title": "ಪ್ರವಾಹ AI ಸಹಾಯಕ",
+    "tagline": "ತ್ವರಿತ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ",
+    "placeholder": "'ನಾನು ಸುರಕ್ಷಿತವೇ?', 'ಸುರಕ್ಷಿತ ದಾರಿ ತೋರಿಸಿ'...",
+    "send": "ಕಳುಹಿಸಿ",
+    "quick1": "ನಾನು ಸುರಕ್ಷಿತವೇ?",
+    "quick2": "ಸುರಕ್ಷಿತ ದಾರಿ ತೋರಿಸಿ",
+    "quick3": "ಅಣೆಕಟ್ಟು ಸ್ಥಿತಿ",
+    "quick4": "ಹತ್ತಿರದ ಆಶ್ರಯ"
+  },
+  "reports": {
+    "title": "ವರದಿಗಳು ಮತ್ತು ಡೌನ್‌ಲೋಡ್",
+    "waterReport": "ನೀರಿನ ಮಟ್ಟ ವರದಿ (PDF)",
+    "rainfallReport": "ಮಳೆ ವಿಶ್ಲೇಷಣೆ (Excel)",
+    "safetyReport": "ಅಣೆಕಟ್ಟು ಸುರಕ್ಷತಾ ವರದಿ",
+    "simulationReport": "ಪ್ರವಾಹ ಸಿಮ್ಯುಲೇಶನ್",
+    "download": "ಡೌನ್‌ಲೋಡ್"
+  },
+  "settings": {
+    "title": "ವ್ಯವಸ್ಥೆಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "language": "ಭಾಷೆ",
+    "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+    "geoTracking": "ಸ್ಥಳ ಟ್ರ್ಯಾಕಿಂಗ್",
+    "soundAlerts": "ಸೈರನ್ ಎಚ್ಚರಿಕೆ"
+  }
+}

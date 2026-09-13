@@ -1,0 +1,6 @@
+{
+  "name": "PRAVAH - AI Dam Monitoring & Flood Safety Platform",
+  "description": "AI-powered Dam Monitoring, Early Warning and Flood Safety Evacuation Platform for India with live dam telemetry, predictive risk analysis, and safe route navigation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

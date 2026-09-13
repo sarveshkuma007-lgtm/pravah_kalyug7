@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "நீருக்கான நுண்ணறிவு. அனைவருக்கும் பாதுகாப்பு.",
+  "appSubtitle": "இந்தியாவிற்கான AI அணை கண்காணிப்பு & வெள்ள பாதுகாப்பு தளம்",
+  "nav": {
+    "dashboard": "டாஷ்போர்டு",
+    "damMonitoring": "அணை கண்காணிப்பு",
+    "liveMap": "நேரலை வரைபடம்",
+    "floodPrediction": "வெள்ள முன்னறிவிப்பு",
+    "weatherForecast": "வானிலை முன்னறிவிப்பு",
+    "alerts": "அவசர எச்சரிக்கைகள்",
+    "safeRoutes": "பாதுகாப்பான பாதைகள்",
+    "allDams": "அனைத்து அணைகள்",
+    "reports": "அறிக்கைகள்",
+    "settings": "அமைப்புகள்",
+    "emergencySos": "அவசர SOS",
+    "collapse": "சுருக்கு",
+    "expand": "விரிவாக்கு"
+  },
+  "status": {
+    "normal": "இயல்பு / பாதுகாப்பானது",
+    "warning": "எச்சரிக்கை நிலை",
+    "critical": "ஆபத்தான நிலை",
+    "resolved": "தீர்க்கப்பட்டது",
+    "standby": "தயார் நிலை",
+    "mandatory": "கட்டாய வெளியேற்றம்"
+  },
+  "dashboard": {
+    "statsTitle": "தேசிய நீரியல் கண்காணிப்பு கண்ணோட்டம்",
+    "totalDamsMonitored": "கண்காணிக்கப்படும் அணைகள்",
+    "normalStatus": "இயல்பு நிலை",
+    "warningLevel": "எச்சரிக்கை நிலை",
+    "criticalDanger": "ஆபத்தான நிலை",
+    "activeEmergencyAlerts": "செயலில் உள்ள எச்சரிக்கைகள்",
+    "peopleAtRisk": "பாதிக்கப்படக்கூடிய மக்கள்",
+    "liveMonitoringGrid": "நேரலை அணை அளவீடுகள்",
+    "waterLevelAnalysis": "நீர் மட்ட பகுப்பாய்வு",
+    "rainfallOverview": "24 மணி நேர மழைப்பொழிவு",
+    "floodRiskIndex": "வெள்ள அபாய குறியீடு",
+    "lastSync": "தற்போது புதுப்பிக்கப்பட்டது"
+  },
+  "dams": {
+    "searchPlaceholder": "அணை பெயர், நதி அல்லது மாவட்டம் மூலம் தேடவும்...",
+    "stateFilter": "மாநிலம்",
+    "basinFilter": "நதி படுகை",
+    "riskFilter": "அபாய நிலை",
+    "allStates": "அனைத்து மாநிலங்கள்",
+    "allBasins": "அனைத்து படுகைகள்",
+    "allRisks": "அனைத்து நிலைகள்",
+    "waterLevel": "நீர் மட்டம்",
+    "capacity": "கொள்ளளவு",
+    "inflow": "நீர் வரத்து",
+    "outflow": "நீர் வெளியேற்றம்",
+    "gates": "திறக்கப்பட்ட மதகுகள்",
+    "rainfall": "மழைப்பொழிவு",
+    "healthScore": "கட்டமைப்பு உறுதி",
+    "viewOnMap": "வரைபடத்தில் காண்க",
+    "viewDetails": "முழு விவரங்கள்",
+    "fullReservoirLevel": "முழு கொள்ளளவு (FRL)",
+    "dangerLevel": "அபாய நிலை"
+  },
+  "map": {
+    "title": "தேசிய நேரலை வெள்ள அபாய வரைபடம்",
+    "legendTitle": "வரைபட அடுக்குகள்",
+    "userLocation": "உங்கள் தற்போதைய இருப்பிடம்",
+    "dangerZone": "அதிதீவிர பகுதி (சிகப்பு)",
+    "warningZone": "எச்சரிக்கை பகுதி (மஞ்சள்)",
+    "safeZone": "பாதுகாப்பான பகுதி (பச்சை)",
+    "shelterPoints": "நிவாரண முகாம்கள்",
+    "evacuationRoute": "பாதுகாப்பான பாதை (நீலம்)",
+    "showDams": "அணைகள்",
+    "showShelters": "முகாம்கள்",
+    "showFloodZones": "வெள்ள பகுதிகள்",
+    "radarLayer": "ரேடார் மழைப்பொழிவு",
+    "locateMe": "இருப்பிடம் காண்க",
+    "viewSafeRoute": "பாதுகாப்பான வழி"
+  },
+  "flood": {
+    "title": "AI வெள்ள கணிப்பு அமைப்பு",
+    "subtitle": "செயற்கை நுண்ணறிவு அடிப்படையிலான நீர் வெளியேற்ற மதிப்பீடு",
+    "riskScore": "கணிக்கப்பட்ட அதிகபட்ச அபாயம்",
+    "arrivalTime": "வெள்ளம் வந்து சேரும் நேரம்",
+    "affectedDistricts": "பாதிக்கப்படும் மாவட்டங்கள்",
+    "recommendations": "AI பாதுகாப்பு வழிகாட்டுதல்கள்",
+    "spillwayRecommendation": "வெளியேற்ற பரிந்துரை",
+    "modelConfidence": "துல்லியம்"
+  },
+  "weather": {
+    "title": "வானிலை & மழை",
+    "currentTemp": "வெப்பநிலை",
+    "humidity": "ஈரப்பதம்",
+    "wind": "காற்றின் வேகம்",
+    "precipitation": "மழை தீவிரம்",
+    "accumulated": "மொத்த மழை",
+    "forecast24h": "24 மணி நேர முன்னறிவிப்பு"
+  },
+  "alerts": {
+    "title": "அவசர வெள்ள எச்சரிக்கைகள்",
+    "criticalTab": "தீவிர எச்சரிக்கைகள்",
+    "warningTab": "அறிவுறுத்தல்கள்",
+    "resolvedTab": "முடிவடைந்தவை",
+    "broadcastNotice": "மத்திய நீர் ஆணைய அறிவிப்பு",
+    "protocol": "பின்பற்ற வேண்டிய வழிமுறைகள்"
+  },
+  "routes": {
+    "title": "பாதுகாப்பான வெளியேற்றப் பாதை",
+    "subtitle": "வெள்ளம் தேங்கிய பாதைகளை தவிர்த்து வழிகாட்டுதல்",
+    "origin": "தற்போதைய இடம்",
+    "destination": "அருகிலுள்ள முகாம்",
+    "safetyScore": "பாதை பாதுகாப்பு குறியீடு",
+    "startStepByStep": "வழிகாட்டுதலைத் தொடங்கவும்"
+  },
+  "chatbot": {
+    "title": "பிரவாஹ் AI உதவியாளர்",
+    "tagline": "உடனடி பாதுகாப்பு வழிகாட்டல்",
+    "placeholder": "'நான் பாதுகாப்பாக உள்ளேனா?', 'பாதுகாப்பான வழி காட்டு'...",
+    "send": "அனுப்பு",
+    "quick1": "நான் பாதுகாப்பாக உள்ளேனா?",
+    "quick2": "பாதுகாப்பான வழி காட்டு",
+    "quick3": "அணை நிலைமை",
+    "quick4": "அருகிலுள்ள முகாம்"
+  },
+  "reports": {
+    "title": "அறிக்கைகள் & பதிவிறக்கம்",
+    "waterReport": "நீர் மட்ட அறிக்கை (PDF)",
+    "rainfallReport": "மழைப்பொழிவு அறிக்கை (Excel)",
+    "safetyReport": "அணை பாதுகாப்பு அறிக்கை",
+    "simulationReport": "வெள்ள உருவகப்படுத்துதல்",
+    "download": "பதிவிறக்கு"
+  },
+  "settings": {
+    "title": "கணினி அமைப்புகள்",
+    "profile": "சுயவிவரம்",
+    "language": "மொழி",
+    "notifications": "அறிவிப்புகள்",
+    "geoTracking": "இருப்பிட கண்காணிப்பு",
+    "soundAlerts": "எச்சரிக்கை ஒலி"
+  }
+}

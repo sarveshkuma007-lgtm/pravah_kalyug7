@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "Intelligence for Water. Safety for Everyone.",
+  "appSubtitle": "AI-Powered Dam Monitoring & Flood Evacuation Intelligence Platform for India",
+  "nav": {
+    "dashboard": "Dashboard",
+    "damMonitoring": "Dam Monitoring",
+    "liveMap": "Live Map",
+    "floodPrediction": "Flood Prediction",
+    "weatherForecast": "Weather Forecast",
+    "alerts": "Emergency Alerts",
+    "safeRoutes": "Safe Routes",
+    "allDams": "All Dams Directory",
+    "reports": "Reports & Analytics",
+    "settings": "System Settings",
+    "emergencySos": "EMERGENCY SOS",
+    "collapse": "Collapse",
+    "expand": "Expand"
+  },
+  "status": {
+    "normal": "Normal / Safe",
+    "warning": "Warning Level",
+    "critical": "Critical Danger",
+    "resolved": "Resolved",
+    "standby": "Standby Evacuation",
+    "mandatory": "Mandatory Evacuation"
+  },
+  "dashboard": {
+    "statsTitle": "National Hydrological Telemetry Overview",
+    "totalDamsMonitored": "Total Dams Monitored",
+    "normalStatus": "Normal Status",
+    "warningLevel": "Warning Level",
+    "criticalDanger": "Critical Danger",
+    "activeEmergencyAlerts": "Active Alerts",
+    "peopleAtRisk": "Estimated At-Risk",
+    "liveMonitoringGrid": "Live Dam Telemetry Stream",
+    "waterLevelAnalysis": "Reservoir Water Level Analysis",
+    "rainfallOverview": "Catchment 24-Hour Rainfall",
+    "floodRiskIndex": "National Inundation Vulnerability Index",
+    "lastSync": "Telemetry Updated Just Now"
+  },
+  "dams": {
+    "searchPlaceholder": "Search dam by name, river or district...",
+    "stateFilter": "State Filter",
+    "basinFilter": "River Basin",
+    "riskFilter": "Risk Status",
+    "allStates": "All States",
+    "allBasins": "All Basins",
+    "allRisks": "All Risk Levels",
+    "waterLevel": "Water Level",
+    "capacity": "Gross Capacity",
+    "inflow": "Current Inflow",
+    "outflow": "Discharge Outflow",
+    "gates": "Sluice Gates Open",
+    "rainfall": "24h Catchment Rain",
+    "healthScore": "Structural Health",
+    "viewOnMap": "View On Map",
+    "viewDetails": "Detailed Telemetry",
+    "fullReservoirLevel": "Full Reservoir Level (FRL)",
+    "dangerLevel": "Danger Warning Level"
+  },
+  "map": {
+    "title": "National Live Hydraulic & Flood Risk Geoportal",
+    "legendTitle": "Tactical Map Layers",
+    "userLocation": "Your Current Location",
+    "dangerZone": "High Danger Zone (Red)",
+    "warningZone": "Moderate Warning Zone (Yellow)",
+    "safeZone": "Safe Inundation Zone (Green)",
+    "shelterPoints": "Evacuation Shelters",
+    "evacuationRoute": "Recommended Safe Route (Blue)",
+    "showDams": "Show Dams",
+    "showShelters": "Show Shelters",
+    "showFloodZones": "Show Flood Zones",
+    "radarLayer": "Precipitation Doppler Radar",
+    "locateMe": "Locate Me",
+    "viewSafeRoute": "Compute Safe Route"
+  },
+  "flood": {
+    "title": "AI Predictive Inundation & Crest Forecaster",
+    "subtitle": "Deep Learning Hydrological Model using Real-time Telemetry & Radar Data",
+    "riskScore": "Projected Peak Flood Risk",
+    "arrivalTime": "Estimated Inundation Crest Arrival",
+    "affectedDistricts": "High-Impact Downstream Districts",
+    "recommendations": "AI Emergency Protocols & Automated Actions",
+    "spillwayRecommendation": "Recommended Controlled Spillway Discharge",
+    "modelConfidence": "AI Model Confidence Level"
+  },
+  "weather": {
+    "title": "Catchment Weather & Monsoon Radar",
+    "currentTemp": "Ambient Temperature",
+    "humidity": "Atmospheric Humidity",
+    "wind": "Surface Wind Velocity",
+    "precipitation": "Rainfall Intensity",
+    "accumulated": "24-Hour Accumulated Rainfall",
+    "forecast24h": "24-Hour Rain Probability Forecast"
+  },
+  "alerts": {
+    "title": "Central Emergency Broadcasts & Flood Warnings",
+    "criticalTab": "Critical Warnings",
+    "warningTab": "Advisory Alerts",
+    "resolvedTab": "Resolved / All",
+    "broadcastNotice": "Central Water Commission (CWC) Official Stream",
+    "protocol": "Recommended Citizen Protocol"
+  },
+  "routes": {
+    "title": "AI-Guided Flood Evacuation Route Navigator",
+    "subtitle": "Bypasses Inundated Arterials, Waterlogged Bridges, and Red Zones",
+    "origin": "Current Evacuee Position",
+    "destination": "Assigned Safe Relief Center",
+    "safetyScore": "Evacuation Path Safety Score",
+    "startStepByStep": "Start Guided Turn-by-Turn Safe Navigation"
+  },
+  "chatbot": {
+    "title": "PRAVAH AI Emergency Assistant",
+    "tagline": "Real-time hydrology queries, safety check & route generator",
+    "placeholder": "Ask: 'Am I safe?', 'Show me a safe route', or check any dam...",
+    "send": "Send Query",
+    "quick1": "Am I safe?",
+    "quick2": "Show me a safe route",
+    "quick3": "Tehri Dam status",
+    "quick4": "Nearest relief shelter"
+  },
+  "reports": {
+    "title": "National Hydrology Reports & Simulation Exports",
+    "waterReport": "Reservoir Level Audit Report (PDF)",
+    "rainfallReport": "Comprehensive Catchment Rainfall Analysis (Excel)",
+    "safetyReport": "Dam Structural Integrity & Spillway Report",
+    "simulationReport": "Downstream Inundation Multi-Scenario Simulation",
+    "download": "Download Report"
+  },
+  "settings": {
+    "title": "Disaster System Configuration & Preferences",
+    "profile": "Responder & User Profile",
+    "language": "Platform Display Language",
+    "notifications": "Emergency SMS & WhatsApp Broadcasts",
+    "geoTracking": "Continuous Background Geolocation Monitoring",
+    "soundAlerts": "High-Decibel Siren Audio for Level 3 Alerts"
+  }
+}

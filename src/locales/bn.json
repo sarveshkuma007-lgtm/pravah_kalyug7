@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "জলের জন্য বুদ্ধিমত্তা। সবার জন্য নিরাপত্তা।",
+  "appSubtitle": "ভারতের জন্য এআই চালিত বাঁধ পর্যবেক্ষণ ও বন্যা নিরাপত্তা ব্যবস্থা",
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "damMonitoring": "বাঁধ পর্যবেক্ষণ",
+    "liveMap": "লাইভ ম্যাপ",
+    "floodPrediction": "বন্যা পূর্বাভাস",
+    "weatherForecast": "আবহাওয়ার পূর্বাভাস",
+    "alerts": "জরুরী সতর্কতা",
+    "safeRoutes": "নিরাপদ রুট",
+    "allDams": "সকল বাঁধের তালিকা",
+    "reports": "রিপোর্ট ও বিশ্লেষণ",
+    "settings": "সেটিংস",
+    "emergencySos": "জরুরী এসওএস",
+    "collapse": "সংকোচন",
+    "expand": "প্রসারণ"
+  },
+  "status": {
+    "normal": "স্বাভাবিক / নিরাপদ",
+    "warning": "সতর্কতা স্তর",
+    "critical": "মারাত্মক বিপদ",
+    "resolved": "সমাধান",
+    "standby": "প্রস্তুতি",
+    "mandatory": "বাধ্যতামূলক উচ্ছেদ"
+  },
+  "dashboard": {
+    "statsTitle": "জাতীয় জলস্তর ও টেলিমেট্রি সারসংক্ষেপ",
+    "totalDamsMonitored": "পর্যবেক্ষিত মোট বাঁধ",
+    "normalStatus": "স্বাভাবিক অবস্থা",
+    "warningLevel": "সতর্কতা স্তর",
+    "criticalDanger": "মারাত্মক বিপদ",
+    "activeEmergencyAlerts": "সক্রিয় সতর্কতা",
+    "peopleAtRisk": "ঝুঁকিপূর্ণ জনসংখ্যা",
+    "liveMonitoringGrid": "লাইভ বাঁধ তথ্য প্রবাহ",
+    "waterLevelAnalysis": "জলাধার জলস্তর বিশ্লেষণ",
+    "rainfallOverview": "২৪ ঘণ্টার বৃষ্টিপাত",
+    "floodRiskIndex": "বন্যা ঝুঁকি সূচক",
+    "lastSync": "এখনই আপডেট হয়েছে"
+  },
+  "dams": {
+    "searchPlaceholder": "নাম বা জেলা দিয়ে বাঁধ অনুসন্ধান করুন...",
+    "stateFilter": "রাজ্য",
+    "basinFilter": "নদী অববাহিকা",
+    "riskFilter": "ঝুঁকির মাত্রা",
+    "allStates": "সকল রাজ্য",
+    "allBasins": "সকল অববাহিকা",
+    "allRisks": "সকল স্তর",
+    "waterLevel": "জলস্তর",
+    "capacity": "ধারণক্ষমতা",
+    "inflow": "প্রবেশকারী জল",
+    "outflow": "নিষ্কাশন জল",
+    "gates": "উন্মুক্ত গেট",
+    "rainfall": "বৃষ্টিপাত",
+    "healthScore": "কাঠামোগত স্বাস্থ্য",
+    "viewOnMap": "মানচিত্রে দেখুন",
+    "viewDetails": "বিস্তারিত তথ্য",
+    "fullReservoirLevel": "সর্বোচ্চ জলস্তর",
+    "dangerLevel": "বিপদ সংকেত মাত্রা"
+  },
+  "map": {
+    "title": "জাতীয় জলস্তর ও বন্যা মানচিত্র",
+    "legendTitle": "মানচিত্র স্তরসমূহ",
+    "userLocation": "আপনার বর্তমান অবস্থান",
+    "dangerZone": "বিপদ অঞ্চল (লাল)",
+    "warningZone": "সতর্কতা অঞ্চল (হলুদ)",
+    "safeZone": "নিরাপদ অঞ্চল (সবুজ)",
+    "shelterPoints": "ত্রাণ শিবির",
+    "evacuationRoute": "নিরাপদ রুট (নীল)",
+    "showDams": "বাঁধ প্রদর্শন",
+    "showShelters": "শিবির প্রদর্শন",
+    "showFloodZones": "বন্যা এলাকা প্রদর্শন",
+    "radarLayer": "রাডার স্তর",
+    "locateMe": "আমার অবস্থান",
+    "viewSafeRoute": "নিরাপদ রুট খুঁজুন"
+  },
+  "flood": {
+    "title": "এআই বন্যা পূর্বাভাস ব্যবস্থা",
+    "subtitle": "স্যাটেলাইট ও সেন্সর নির্ভর কৃত্রিম বুদ্ধিমত্তা মডেল",
+    "riskScore": "সম্ভাব্য সর্বোচ্চ ঝুঁকি",
+    "arrivalTime": "বন্যা আসার আনুমানিক সময়",
+    "affectedDistricts": "ক্ষতিগ্রস্ত জেলাসমূহ",
+    "recommendations": "এআই নির্দেশাবলী",
+    "spillwayRecommendation": "সুপারিশকৃত জল নিঃসরণ",
+    "modelConfidence": "মডেলের নির্ভুলতা"
+  },
+  "weather": {
+    "title": "আবহাওয়া ও মৌসুমী রাডার",
+    "currentTemp": "তাপমাত্রা",
+    "humidity": "আর্দ্রতা",
+    "wind": "বাতাসের গতি",
+    "precipitation": "বৃষ্টির পরিমাণ",
+    "accumulated": "মোট বৃষ্টিপাত",
+    "forecast24h": "২৪ ঘণ্টার পূর্বাভাস"
+  },
+  "alerts": {
+    "title": "জরুরী বন্যা বার্তা ও সতর্কতা",
+    "criticalTab": "মারাত্মক সতর্কতা",
+    "warningTab": "উপদেষ্টা সতর্কতা",
+    "resolvedTab": "সমাধানকৃত",
+    "broadcastNotice": "কেন্দ্রীয় জল কমিশন বুলেটিন",
+    "protocol": "প্রয়োজনীয় পদক্ষেপ"
+  },
+  "routes": {
+    "title": "এআই চালিত নিরাপদ উচ্ছেদ পথ",
+    "subtitle": "বন্যার জলমগ্ন সড়ক এড়িয়ে নিরাপদ গমন",
+    "origin": "বর্তমান অবস্থান",
+    "destination": "নিকটস্থ আশ্রয়কেন্দ্র",
+    "safetyScore": "পথের নিরাপত্তা রেটিং",
+    "startStepByStep": "নেভিগেশন শুরু করুন"
+  },
+  "chatbot": {
+    "title": "প্রবাহ এআই সহকারী",
+    "tagline": "রিয়েল-টাইম নিরাপত্তা জিজ্ঞাসা ও সহায়তা",
+    "placeholder": "জিজ্ঞাসা করুন: 'আমি কি নিরাপদ?', 'নিরাপদ পথ দেখাও'...",
+    "send": "পাঠান",
+    "quick1": "আমি কি নিরাপদ?",
+    "quick2": "নিরাপদ পথ দেখাও",
+    "quick3": "বাঁধের অবস্থা",
+    "quick4": "নিকটস্থ আশ্রয়কেন্দ্র"
+  },
+  "reports": {
+    "title": "রিপোর্ট ও বিশ্লেষণ ডাউনলোড",
+    "waterReport": "জলাধার স্তর রিপোর্ট (PDF)",
+    "rainfallReport": "বৃষ্টিপাত বিশ্লেষণ (Excel)",
+    "safetyReport": "বাঁধ নিরাপত্তা রিপোর্ট",
+    "simulationReport": "বন্যা সিমুলেশন রিপোর্ট",
+    "download": "ডাউনলোড করুন"
+  },
+  "settings": {
+    "title": "সিস্টেম সেটিংস",
+    "profile": "ব্যবহারকারী প্রোফাইল",
+    "language": "ভাষা",
+    "notifications": "জরুরী বিজ্ঞপ্তি",
+    "geoTracking": "লোকেশন ট্র্যাকিং",
+    "soundAlerts": "সাইরেন সংকেত"
+  }
+}

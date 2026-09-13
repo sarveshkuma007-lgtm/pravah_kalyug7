@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "ਪਾਣੀ ਲਈ ਬੁੱਧੀ। ਸਭ ਲਈ ਸੁਰੱਖਿਆ।",
+  "appSubtitle": "ਭਾਰਤ ਲਈ ਏਆਈ-ਅਧਾਰਤ ਡੈਮ ਨਿਗਰਾਨੀ ਅਤੇ ਹੜ੍ਹ ਸੁਰੱਖਿਆ ਪਲੇਟਫਾਰਮ",
+  "nav": {
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "damMonitoring": "ਡੈਮ ਨਿਗਰਾਨੀ",
+    "liveMap": "ਲਾਈਵ ਨਕਸ਼ਾ",
+    "floodPrediction": "ਹੜ੍ਹ ਭਵਿੱਖਬਾਣੀ",
+    "weatherForecast": "ਮੌਸਮ ਭਵਿੱਖਬਾਣੀ",
+    "alerts": "ਐਮਰਜੈਂਸੀ ਚੇਤਾਵਨੀਆਂ",
+    "safeRoutes": "ਸੁਰੱਖਿਅਤ ਰਸਤੇ",
+    "allDams": "ਸਾਰੇ ਡੈਮ",
+    "reports": "ਰਿਪੋਰਟਾਂ",
+    "settings": "ਸੈਟਿੰਗਾਂ",
+    "emergencySos": "ਐਮਰਜੈਂਸੀ SOS",
+    "collapse": "ਸਮੇਟੋ",
+    "expand": "ਫੈਲਾਓ"
+  },
+  "status": {
+    "normal": "ਆਮ / ਸੁਰੱਖਿਅਤ",
+    "warning": "ਚੇਤਾਵਨੀ ਪੱਧਰ",
+    "critical": "ਗੰਭੀਰ ਖ਼ਤਰਾ",
+    "resolved": "ਹੱਲ ਹੋ ਗਿਆ",
+    "standby": "ਤਿਆਰੀ",
+    "mandatory": "ਜ਼ਰੂਰੀ ਨਿਕਾਸੀ"
+  },
+  "dashboard": {
+    "statsTitle": "ਰਾਸ਼ਟਰੀ ਹਾਈਡ੍ਰੋਲੋਜੀਕਲ ਸੰਖੇਪ",
+    "totalDamsMonitored": "ਕੁੱਲ ਨਿਗਰਾਨੀ ਡੈਮ",
+    "normalStatus": "ਆਮ ਸਥਿਤੀ",
+    "warningLevel": "ਚੇਤਾਵਨੀ ਪੱਧਰ",
+    "criticalDanger": "ਗੰਭੀਰ ਖ਼ਤਰਾ",
+    "activeEmergencyAlerts": "ਸਰਗਰਮ ਚੇਤਾਵਨੀਆਂ",
+    "peopleAtRisk": "ਪ੍ਰਭਾਵਿਤ ਹੋਣ ਵਾਲੇ ਲੋਕ",
+    "liveMonitoringGrid": "ਲਾਈਵ ਡੈਮ ਡੇਟਾ",
+    "waterLevelAnalysis": "ਪਾਣੀ ਪੱਧਰ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "rainfallOverview": "24 ਘੰਟੇ ਦੀ ਬਾਰਿਸ਼",
+    "floodRiskIndex": "ਹੜ੍ਹ ਖ਼ਤਰਾ ਸੂਚਕਾਂਕ",
+    "lastSync": "ਹੁਣੇ ਅੱਪਡੇਟ ਕੀਤਾ"
+  },
+  "dams": {
+    "searchPlaceholder": "ਡੈਮ, ਨਦੀ ਜਾਂ ਜ਼ਿਲ੍ਹੇ ਨਾਲ ਖੋਜੋ...",
+    "stateFilter": "ਰਾਜ",
+    "basinFilter": "ਨਦੀ ਬੇਸਿਨ",
+    "riskFilter": "ਖ਼ਤਰਾ ਸਥਿਤੀ",
+    "allStates": "ਸਾਰੇ ਰਾਜ",
+    "allBasins": "ਸਾਰੇ ਬੇਸਿਨ",
+    "allRisks": "ਸਾਰੇ ਪੱਧਰ",
+    "waterLevel": "ਪਾਣੀ ਪੱਧਰ",
+    "capacity": "ਸਮਰੱਥਾ",
+    "inflow": "ਆਮਦ",
+    "outflow": "ਨਿਕਾਸੀ",
+    "gates": "ਖੁੱਲ੍ਹੇ ਗੇਟ",
+    "rainfall": "ਬਾਰਿਸ਼",
+    "healthScore": "ਢਾਂਚਾਗਤ ਸਿਹਤ",
+    "viewOnMap": "ਨਕਸ਼ੇ 'ਤੇ ਵੇਖੋ",
+    "viewDetails": "ਵੇਰਵੇ",
+    "fullReservoirLevel": "ਪੂਰਾ ਭੰਡਾਰ ਪੱਧਰ (FRL)",
+    "dangerLevel": "ਖ਼ਤਰੇ ਦਾ ਪੱਧਰ"
+  },
+  "map": {
+    "title": "ਰਾਸ਼ਟਰੀ ਲਾਈਵ ਹੜ੍ਹ ਖ਼ਤਰਾ ਨਕਸ਼ਾ",
+    "legendTitle": "ਨਕਸ਼ਾ ਲੇਅਰਾਂ",
+    "userLocation": "ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਸਥਾਨ",
+    "dangerZone": "ਖ਼ਤਰਨਾਕ ਖੇਤਰ (ਲਾਲ)",
+    "warningZone": "ਚੇਤਾਵਨੀ ਖੇਤਰ (ਪੀਲਾ)",
+    "safeZone": "ਸੁਰੱਖਿਅਤ ਖੇਤਰ (ਹਰਾ)",
+    "shelterPoints": "ਰਾਹਤ ਕੈਂਪ",
+    "evacuationRoute": "ਸੁਰੱਖਿਅਤ ਰਸਤਾ (ਨੀਲਾ)",
+    "showDams": "ਡੈਮ ਦਿਖਾਓ",
+    "showShelters": "ਆਸਰੇ ਦਿਖਾਓ",
+    "showFloodZones": "ਹੜ੍ਹ ਖੇਤਰ ਦਿਖਾਓ",
+    "radarLayer": "ਰਾਡਾਰ ਬਾਰਿਸ਼",
+    "locateMe": "ਮੇਰਾ ਸਥਾਨ",
+    "viewSafeRoute": "ਸੁਰੱਖਿਅਤ ਰਸਤਾ ਲੱਭੋ"
+  },
+  "flood": {
+    "title": "AI ਹੜ੍ਹ ਭਵਿੱਖਬਾਣੀ ਪ੍ਰਣਾਲੀ",
+    "subtitle": "ਸੈਟੇਲਾਈਟ ਅਤੇ ਸੈਂਸਰ ਅਧਾਰਤ ਭਵਿੱਖਬਾਣੀ ਮਾਡਲ",
+    "riskScore": "ਅੰਦਾਜ਼ਨ ਵੱਧ ਤੋਂ ਵੱਧ ਖ਼ਤਰਾ",
+    "arrivalTime": "ਹੜ੍ਹ ਆਉਣ ਦਾ ਸਮਾਂ",
+    "affectedDistricts": "ਪ੍ਰਭਾਵਿਤ ਜ਼ਿਲ੍ਹੇ",
+    "recommendations": "AI ਸੁਰੱਖਿਆ ਨਿਰਦੇਸ਼",
+    "spillwayRecommendation": "ਪਾਣੀ ਛੱਡਣ ਦੀ ਸਿਫਾਰਸ਼",
+    "modelConfidence": "ਸ਼ੁੱਧਤਾ"
+  },
+  "weather": {
+    "title": "ਮੌਸਮ ਅਤੇ ਬਾਰਿਸ਼",
+    "currentTemp": "ਤਾਪਮਾਨ",
+    "humidity": "ਨਮੀ",
+    "wind": "ਹਵਾ ਦੀ ਰਫ਼ਤਾਰ",
+    "precipitation": "ਮੀਂਹ ਦੀ ਤੀਬਰਤਾ",
+    "accumulated": "ਕੁੱਲ ਮੀਂਹ",
+    "forecast24h": "24 ਘੰਟੇ ਦੀ ਭਵਿੱਖਬਾਣੀ"
+  },
+  "alerts": {
+    "title": "ਐਮਰਜੈਂਸੀ ਹੜ੍ਹ ਚੇਤਾਵਨੀਆਂ",
+    "criticalTab": "ਗੰਭੀਰ ਚੇਤਾਵਨੀਆਂ",
+    "warningTab": "ਸਲਾਹਾਂ",
+    "resolvedTab": "ਹੱਲ ਹੋਏ",
+    "broadcastNotice": "ਕੇਂਦਰੀ ਜਲ ਕਮਿਸ਼ਨ ਨੋਟਿਸ",
+    "protocol": "ਸੁਰੱਖਿਆ ਨਿਯਮ"
+  },
+  "routes": {
+    "title": "ਸੁਰੱਖਿਅਤ ਨਿਕਾਸੀ ਰਸਤਾ",
+    "subtitle": "ਪਾਣੀ ਭਰੀਆਂ ਸੜਕਾਂ ਤੋਂ ਬਚ ਕੇ ਮਾਰਗਦਰਸ਼ਨ",
+    "origin": "ਮੌਜੂਦਾ ਸਥਾਨ",
+    "destination": "ਨੇੜਲਾ ਕੈਂਪ",
+    "safetyScore": "ਰਸਤਾ ਸੁਰੱਖਿਆ ਸਕੋਰ",
+    "startStepByStep": "ਨੇਵੀਗੇਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ"
+  },
+  "chatbot": {
+    "title": "ਪ੍ਰਵਾਹ ਏਆਈ ਸਹਾਇਕ",
+    "tagline": "ਤੁਰੰਤ ਸੁਰੱਖਿਆ ਮਾਰਗਦਰਸ਼ਨ",
+    "placeholder": "'ਕੀ ਮੈਂ ਸੁਰੱਖਿਅਤ ਹਾਂ?', 'ਸੁਰੱਖਿਅਤ ਰਸਤਾ ਦਿਖਾਓ'...",
+    "send": "ਭੇਜੋ",
+    "quick1": "ਕੀ ਮੈਂ ਸੁਰੱਖਿਅਤ ਹਾਂ?",
+    "quick2": "ਸੁਰੱਖਿਅਤ ਰਸਤਾ ਦਿਖਾਓ",
+    "quick3": "ਡੈਮ ਦੀ ਸਥਿਤੀ",
+    "quick4": "ਨੇੜਲਾ ਕੈਂਪ"
+  },
+  "reports": {
+    "title": "ਰਿਪੋਰਟਾਂ ਅਤੇ ਡਾਊਨਲੋਡ",
+    "waterReport": "ਪਾਣੀ ਪੱਧਰ ਰਿਪੋਰਟ (PDF)",
+    "rainfallReport": "ਬਾਰਿਸ਼ ਰਿਪੋਰਟ (Excel)",
+    "safetyReport": "ਡੈਮ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ",
+    "simulationReport": "ਹੜ੍ਹ ਸਿਮੂਲੇਸ਼ਨ",
+    "download": "ਡਾਊਨਲੋਡ"
+  },
+  "settings": {
+    "title": "ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "language": "ਭਾਸ਼ਾ",
+    "notifications": "ਨੋਟੀਫਿਕੇਸ਼ਨ",
+    "geoTracking": "ਸਥਾਨ ਟਰੈਕਿੰਗ",
+    "soundAlerts": "ਸਾਇਰਨ ਅਲਾਰਮ"
+  }
+}

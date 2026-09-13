@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "પાણી માટે બુદ્ધિમત્તા. દરેક માટે સલામતી.",
+  "appSubtitle": "ભારત માટે AI આધારિત ડેમ મોનિટરિંગ અને પૂર સુરક્ષા પ્લેટફોર્મ",
+  "nav": {
+    "dashboard": "ડેશબોર્ડ",
+    "damMonitoring": "ડેમ મોનિટરિંગ",
+    "liveMap": "લાઇવ નકશો",
+    "floodPrediction": "પૂરની આગાહી",
+    "weatherForecast": "હવામાન આગાહી",
+    "alerts": "કટોકટી ચેતવણીઓ",
+    "safeRoutes": "સલામત માર્ગો",
+    "allDams": "બધા ડેમની યાદી",
+    "reports": "અહેવાલો અને વિશ્લેષણ",
+    "settings": "સેટિંગ્સ",
+    "emergencySos": "કટોકટી SOS",
+    "collapse": "સંક્ષિપ્ત",
+    "expand": "વિસ્તૃત"
+  },
+  "status": {
+    "normal": "સામાન્ય / સલામત",
+    "warning": "ચેતવણી સ્તર",
+    "critical": "ગંભીર જોખમ",
+    "resolved": "ઉકેલાયેલ",
+    "standby": "તૈયારી",
+    "mandatory": "સ્થળાંતર ફરજિયાત"
+  },
+  "dashboard": {
+    "statsTitle": "રાષ્ટ્રીય જળવિજ્ઞાન ટેલિમેટ્રી વિહંગાવલોકન",
+    "totalDamsMonitored": "કુલ મોનિટર કરાયેલ ડેમ",
+    "normalStatus": "સામાન્ય સ્થિતિ",
+    "warningLevel": "ચેતવણી સ્તર",
+    "criticalDanger": "ગંભીર જોખમ",
+    "activeEmergencyAlerts": "સક્રિય ચેતવણીઓ",
+    "peopleAtRisk": "જોખમમાં મુકાયેલ વસ્તી",
+    "liveMonitoringGrid": "લાઇવ ડેમ ટેલિમેટ્રી પ્રવાહ",
+    "waterLevelAnalysis": "જળાશય જળ સ્તર વિશ્લેષણ",
+    "rainfallOverview": "24 કલાકનો વરસાદ",
+    "floodRiskIndex": "પૂર જોખમ સૂચકાંક",
+    "lastSync": "હમણાં જ અપડેટ થયેલ"
+  },
+  "dams": {
+    "searchPlaceholder": "ડેમનું નામ, નદી અથવા જિલ્લા દ્વારા શોધો...",
+    "stateFilter": "રાજ્ય",
+    "basinFilter": "નદી બેસિન",
+    "riskFilter": "જોખમ સ્થિતિ",
+    "allStates": "બધા રાજ્યો",
+    "allBasins": "બધા બેસિન",
+    "allRisks": "બધા સ્તર",
+    "waterLevel": "જળ સ્તર",
+    "capacity": "કુલ ક્ષમતા",
+    "inflow": "આવક",
+    "outflow": "જાવક",
+    "gates": "ખુલ્લા દરવાજા",
+    "rainfall": "વરસાદ",
+    "healthScore": "બંધારણીય સ્વાસ્થ્ય",
+    "viewOnMap": "નકશા પર જુઓ",
+    "viewDetails": "વિગતવાર માહિતી",
+    "fullReservoirLevel": "સંપૂર્ણ સપાટી (FRL)",
+    "dangerLevel": "ભયજનક સપાટી"
+  },
+  "map": {
+    "title": "રાષ્ટ્રીય લાઇવ પૂર જોખમ જીઓપોર્ટલ",
+    "legendTitle": "નકશા સ્તરો",
+    "userLocation": "તમારું વર્તમાન સ્થાન",
+    "dangerZone": "અતિ જોખમી ક્ષેત્ર (લાલ)",
+    "warningZone": "ચેતવણી ક્ષેત્ર (પીળો)",
+    "safeZone": "સલામત ક્ષેત્ર (લીલો)",
+    "shelterPoints": "રાહત છાવણીઓ",
+    "evacuationRoute": "સલામત માર્ગ (વાદળી)",
+    "showDams": "ડેમ બતાવો",
+    "showShelters": "આશ્રયસ્થાન બતાવો",
+    "showFloodZones": "પૂર ઝોન બતાવો",
+    "radarLayer": "રડાર વરસાદ",
+    "locateMe": "મારું સ્થાન",
+    "viewSafeRoute": "સલામત માર્ગ શોધો"
+  },
+  "flood": {
+    "title": "AI પૂર આગાહી સિસ્ટમ",
+    "subtitle": "સેટેલાઇટ અને સેન્સર આધારિત આગાહી મોડેલ",
+    "riskScore": "અંદાજિત મહત્તમ જોખમ",
+    "arrivalTime": "પૂર આગમન સમય",
+    "affectedDistricts": "અસરગ્રસ્ત જિલ્લાઓ",
+    "recommendations": "AI સલામતી સૂચનાઓ",
+    "spillwayRecommendation": "ભલામણ કરેલ પાણી છોડવાનો દર",
+    "modelConfidence": "ચોકસાઈ"
+  },
+  "weather": {
+    "title": "હવામાન અને વરસાદ",
+    "currentTemp": "તાપમાન",
+    "humidity": "ભેજ",
+    "wind": "પવનની ગતિ",
+    "precipitation": "વરસાદની તીવ્રતા",
+    "accumulated": "કુલ વરસાદ",
+    "forecast24h": "24 કલાકની આગાહી"
+  },
+  "alerts": {
+    "title": "કટોકટી પૂર ચેતવણીઓ",
+    "criticalTab": "ગંભીર ચેતવણીઓ",
+    "warningTab": "સલાહકાર ચેતવણીઓ",
+    "resolvedTab": "સમાપ્ત થયેલ",
+    "broadcastNotice": "કેન્દ્રીય જળ આયોગ સૂચના",
+    "protocol": "નાગરિક સુરક્ષા પગલાં"
+  },
+  "routes": {
+    "title": "સલામત સ્થળાંતર માર્ગ",
+    "subtitle": "પાણી ભરાયેલા રસ્તાઓ ટાળીને સલામત માર્ગદર્શન",
+    "origin": "વર્તમાન સ્થાન",
+    "destination": "નજીકનું આશ્રયસ્થાન",
+    "safetyScore": "માર્ગ સુરક્ષા સ્કોર",
+    "startStepByStep": "નેવિગેશન શરૂ કરો"
+  },
+  "chatbot": {
+    "title": "પ્રવાહ AI સહાયક",
+    "tagline": "ત્વરિત સુરક્ષા માર્ગદર્શન",
+    "placeholder": "'શું હું સુરક્ષિત છું?', 'સલામત રસ્તો બતાવો'...",
+    "send": "મોકલો",
+    "quick1": "શું હું સુરક્ષિત છું?",
+    "quick2": "સલામત રસ્તો બતાવો",
+    "quick3": "ડેમની સ્થિતિ",
+    "quick4": "નજીકનું આશ્રયસ્થાન"
+  },
+  "reports": {
+    "title": "અહેવાલો અને ડાઉનલોડ",
+    "waterReport": "જળ સ્તર અહેવાલ (PDF)",
+    "rainfallReport": "વરસાદ વિશ્લેષણ (Excel)",
+    "safetyReport": "ડેમ સુરક્ષા અહેવાલ",
+    "simulationReport": "પૂર સિમ્યુલેશન",
+    "download": "ડાઉનલોડ કરો"
+  },
+  "settings": {
+    "title": "સિસ્ટમ સેટિંગ્સ",
+    "profile": "પ્રોફાઇલ",
+    "language": "ભાષા",
+    "notifications": "સૂચનાઓ",
+    "geoTracking": "સ્થાન ટ્રેકિંગ",
+    "soundAlerts": "સાયરન અવાજ"
+  }
+}

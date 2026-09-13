@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "ജലത്തിനായി ബുദ്ധി. എല്ലാവർക്കും സുരക്ഷ.",
+  "appSubtitle": "ഇന്ത്യയ്ക്കായുള്ള AI അണക്കെട്ട് നിരീക്ഷണ & പ്രളയ സുരക്ഷാ പ്ലാറ്റ്ഫോം",
+  "nav": {
+    "dashboard": "ഡാഷ്‌ബോർഡ്",
+    "damMonitoring": "അണക്കെട്ട് നിരീക്ഷണം",
+    "liveMap": "തത്സമയ ഭൂപടം",
+    "floodPrediction": "പ്രളയ പ്രവചനം",
+    "weatherForecast": "കാലാവസ്ഥാ പ്രവചനം",
+    "alerts": "അടിയന്തര മുന്നറിയിപ്പുകൾ",
+    "safeRoutes": "സുരക്ഷിത പാതകൾ",
+    "allDams": "എല്ലാ അണക്കെട്ടുകളും",
+    "reports": "റിപ്പോർട്ടുകൾ",
+    "settings": "ക്രമീകരണങ്ങൾ",
+    "emergencySos": "അടിയന്തര SOS",
+    "collapse": "ചുരുക്കുക",
+    "expand": "വികസിപ്പിക്കുക"
+  },
+  "status": {
+    "normal": "സാധാരണം / സുരക്ഷിതം",
+    "warning": "മുന്നറിയിപ്പ് നില",
+    "critical": "ഗുരുതരമായ അപകടം",
+    "resolved": "പരിഹരിച്ചു",
+    "standby": "തയ്യാറെടുപ്പ്",
+    "mandatory": "നിർബന്ധിത ഒഴിപ്പിക്കൽ"
+  },
+  "dashboard": {
+    "statsTitle": "ദേശീയ ജലശാസ്ത്ര ടെലിമെട്രി അവലോകനം",
+    "totalDamsMonitored": "നിരീക്ഷിക്കുന്ന അണക്കെട്ടുകൾ",
+    "normalStatus": "സാധാരണ നില",
+    "warningLevel": "മുന്നറിയിപ്പ് നില",
+    "criticalDanger": "ഗുരുതരമായ അപകടം",
+    "activeEmergencyAlerts": "സജീവ മുന്നറിയിപ്പുകൾ",
+    "peopleAtRisk": "അപകടസാധ്യതയുള്ള ജനങ്ങൾ",
+    "liveMonitoringGrid": "തത്സമയ വിവരങ്ങൾ",
+    "waterLevelAnalysis": "ജലനിരപ്പ് വിശകലനം",
+    "rainfallOverview": "24 മണിക്കൂർ മഴ",
+    "floodRiskIndex": "പ്രളയ സാധ്യത സൂചിക",
+    "lastSync": "ഇപ്പോൾ പുതുക്കിയത്"
+  },
+  "dams": {
+    "searchPlaceholder": "പേര്, നദി അല്ലെങ്കിൽ ജില്ല പ്രകാരം തിരയുക...",
+    "stateFilter": "സംസ്ഥാനം",
+    "basinFilter": "നദീതടം",
+    "riskFilter": "അപകട നില",
+    "allStates": "എല്ലാ സംസ്ഥാനങ്ങളും",
+    "allBasins": "എല്ലാ തടങ്ങളും",
+    "allRisks": "എല്ലാ നിലകളും",
+    "waterLevel": "ജലനിരപ്പ്",
+    "capacity": "സംഭരണശേഷി",
+    "inflow": "നീരൊഴുക്ക്",
+    "outflow": "പുറത്തേക്ക് ഒഴുക്കുന്നത്",
+    "gates": "തുറന്ന ഷട്ടറുകൾ",
+    "rainfall": "മഴ",
+    "healthScore": "സുരക്ഷാ സ്കോർ",
+    "viewOnMap": "മാപ്പിൽ കാണുക",
+    "viewDetails": "വിശദാംശങ്ങൾ",
+    "fullReservoirLevel": "പരമാവധി സംഭരണ ശേഷി (FRL)",
+    "dangerLevel": "അപകട നില"
+  },
+  "map": {
+    "title": "തത്സമയ പ്രളയ ഭൂപടം",
+    "legendTitle": "മാപ്പ് ലെയറുകൾ",
+    "userLocation": "നിങ്ങളുടെ നിലവിലെ സ്ഥാനം",
+    "dangerZone": "അപകട മേഖല (ചുവപ്പ്)",
+    "warningZone": "മുന്നറിയിപ്പ് മേഖല (മഞ്ഞ)",
+    "safeZone": "സുരക്ഷിത മേഖല (പച്ച)",
+    "shelterPoints": "ദുരിതാശ്വാസ ക്യാമ്പുകൾ",
+    "evacuationRoute": "സുരക്ഷിത പാത (നീല)",
+    "showDams": "ഡാമുകൾ",
+    "showShelters": "ക്യാമ്പുകൾ",
+    "showFloodZones": "പ്രളയ മേഖലകൾ",
+    "radarLayer": "റഡാർ മഴ വിവരങ്ങൾ",
+    "locateMe": "എന്റെ സ്ഥാനം",
+    "viewSafeRoute": "സുരക്ഷിത പാത കണ്ടെത്തുക"
+  },
+  "flood": {
+    "title": "AI പ്രളയ പ്രവചന സംവിധാനം",
+    "subtitle": "സാറ്റലൈറ്റ് സെൻസർ അടിസ്ഥാനമാക്കിയുള്ള പ്രവചനം",
+    "riskScore": "കണക്കാക്കിയ പരമാവധി അപകടം",
+    "arrivalTime": "വെള്ളപ്പൊക്കം എത്തുന്ന സമയം",
+    "affectedDistricts": "ബാധിക്കപ്പെടുന്ന ജില്ലകൾ",
+    "recommendations": "AI സുരക്ഷാ നിർദ്ദേശങ്ങൾ",
+    "spillwayRecommendation": "വെള്ളം തുറന്നുവിടൽ നിർദ്ദേശം",
+    "modelConfidence": "കൃത്യത"
+  },
+  "weather": {
+    "title": "കാലാവസ്ഥയും മഴയും",
+    "currentTemp": "താപനില",
+    "humidity": "ഈർപ്പം",
+    "wind": "കാറ്റിന്റെ വേഗത",
+    "precipitation": "മഴയുടെ തീവ്രത",
+    "accumulated": "ആകെ മഴ",
+    "forecast24h": "24 മണിക്കൂർ പ്രവചനം"
+  },
+  "alerts": {
+    "title": "അടിയന്തര പ്രളയ മുന്നറിയിപ്പുകൾ",
+    "criticalTab": "ഗുരുതര മുന്നറിയിപ്പുകൾ",
+    "warningTab": "നിർദ്ദേശങ്ങൾ",
+    "resolvedTab": "പരിഹരിച്ചവ",
+    "broadcastNotice": "കേന്ദ്ര ജല കമ്മീഷൻ അറിയിപ്പ്",
+    "protocol": "പാലിക്കേണ്ട നടപടികൾ"
+  },
+  "routes": {
+    "title": "സുരക്ഷിത പലായന പാത",
+    "subtitle": "വെള്ളക്കെട്ടുള്ള വഴികൾ ഒഴിവാക്കിയുള്ള മാർഗ്ഗനിർദ്ദേശം",
+    "origin": "നിലവിലെ സ്ഥാനം",
+    "destination": "അടുത്തുള്ള ക്യാമ്പ്",
+    "safetyScore": "സുരക്ഷാ റേറ്റിംഗ്",
+    "startStepByStep": "നാവിഗേഷൻ ആരംഭിക്കുക"
+  },
+  "chatbot": {
+    "title": "പ്രവാഹ് AI സഹായി",
+    "tagline": "തത്സമയ സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ",
+    "placeholder": "'ഞാൻ സുരക്ഷിതനാണോ?', 'സുരക്ഷിത പാത കാണിക്കുക'...",
+    "send": "അയക്കുക",
+    "quick1": "ഞാൻ സുരക്ഷിതനാണോ?",
+    "quick2": "സുരക്ഷിത പാത കാണിക്കുക",
+    "quick3": "ഡാമിന്റെ അവസ്ഥ",
+    "quick4": "അടുത്തുള്ള ക്യാമ്പ്"
+  },
+  "reports": {
+    "title": "റിപ്പോർട്ടുകൾ & ഡൗൺലോഡ്",
+    "waterReport": "ജലനിരപ്പ് റിപ്പോർട്ട് (PDF)",
+    "rainfallReport": "മഴ വിശകലനം (Excel)",
+    "safetyReport": "ഡാം സുരക്ഷാ റിപ്പോർട്ട്",
+    "simulationReport": "പ്രളയ സിമുലേഷൻ",
+    "download": "ഡൗൺലോഡ്"
+  },
+  "settings": {
+    "title": "ക്രമീകരണങ്ങൾ",
+    "profile": "പ്രൊഫൈൽ",
+    "language": "ഭാഷ",
+    "notifications": "അറിയിപ്പുകൾ",
+    "geoTracking": "ലൊക്കേഷൻ ട്രാക്കിംഗ്",
+    "soundAlerts": "സൈറൺ അലാറം"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "నీటి కోసం మేధస్సు. అందరికీ భద్రత.",
+  "appSubtitle": "భారతదేశం కోసం AI ఆధారిత డ్యామ్ పర్యవేక్షణ & వరద భద్రతా వేదిక",
+  "nav": {
+    "dashboard": "డాష్‌బోర్డ్",
+    "damMonitoring": "డ్యామ్ పర్యవేక్షణ",
+    "liveMap": "లైవ్ మ్యాప్",
+    "floodPrediction": "వరద అంచనా",
+    "weatherForecast": "వాతావరణ సూచన",
+    "alerts": "అత్యవసర హెచ్చరికలు",
+    "safeRoutes": "సురక్షిత మార్గాలు",
+    "allDams": "అన్ని డ్యామ్‌ల జాబితా",
+    "reports": "నివేదికలు & విశ్లేషణలు",
+    "settings": "సెట్టింగ్‌లు",
+    "emergencySos": "అత్యవసర SOS",
+    "collapse": "కుదించు",
+    "expand": "విస్తరించు"
+  },
+  "status": {
+    "normal": "సాధారణం / సురక్షితం",
+    "warning": "హెచ్చరిక స్థాయి",
+    "critical": "తీవ్ర ప్రమాదం",
+    "resolved": "పరిష్కరించబడింది",
+    "standby": "సిద్ధంగా ఉండండి",
+    "mandatory": "తప్పనిసరి తరలింపు"
+  },
+  "dashboard": {
+    "statsTitle": "జాతీయ హైడ్రాలాజికల్ టెలిమెట్రీ సమీక్ష",
+    "totalDamsMonitored": "పర్యవేక్షిస్తున్న మొత్తం డ్యామ్‌లు",
+    "normalStatus": "సాధారణ స్థితి",
+    "warningLevel": "హెచ్చరిక స్థాయి",
+    "criticalDanger": "తీవ్ర ప్రమాదం",
+    "activeEmergencyAlerts": "క్రియాశీల హెచ్చరికలు",
+    "peopleAtRisk": "ప్రమాదంలో ఉన్న జనాభా",
+    "liveMonitoringGrid": "లైవ్ డ్యామ్ సమాచార ప్రసారం",
+    "waterLevelAnalysis": "నీటి మట్టాల విశ్లేషణ",
+    "rainfallOverview": "24 గంటల వర్షపాతం",
+    "floodRiskIndex": "వరద ప్రమాద సూచిక",
+    "lastSync": "ఇప్పుడే నవీకరించబడింది"
+  },
+  "dams": {
+    "searchPlaceholder": "డ్యామ్ పేరు, నది లేదా జిల్లా ద్వారా శోధించండి...",
+    "stateFilter": "రాష్ట్రం",
+    "basinFilter": "నదీ పరివాహక ప్రాంతం",
+    "riskFilter": "ప్రమాద స్థితి",
+    "allStates": "అన్ని రాష్ట్రాలు",
+    "allBasins": "అన్ని పరివాహకాలు",
+    "allRisks": "అన్ని స్థాయిలు",
+    "waterLevel": "నీటి మట్టం",
+    "capacity": "మొత్తం సామర్థ్యం",
+    "inflow": "ఇన్‌ఫ్లో",
+    "outflow": "ఔట్‌ఫ్లో",
+    "gates": "తెరిచిన గేట్లు",
+    "rainfall": "వర్షపాతం",
+    "healthScore": "నిర్మాణ ఆరోగ్యం",
+    "viewOnMap": "మ్యాప్‌లో చూడండి",
+    "viewDetails": "పూర్తి వివరాలు",
+    "fullReservoirLevel": "గరిష్ట నీటి మట్టం (FRL)",
+    "dangerLevel": "ప్రమాద స్థాయి"
+  },
+  "map": {
+    "title": "జాతీయ ప్రత్యక్ష వరద ప్రమాద మ్యాప్",
+    "legendTitle": "మ్యాప్ లేయర్లు",
+    "userLocation": "మీ ప్రస్తుత స్థానం",
+    "dangerZone": "తీవ్ర ప్రమాద ప్రాంతం (ఎరుపు)",
+    "warningZone": "మధ్యస్థ హెచ్చరిక ప్రాంతం (పసుపు)",
+    "safeZone": "సురక్షిత ప్రాంతం (ఆకుపచ్చ)",
+    "shelterPoints": "పునరావాస కేంద్రాలు",
+    "evacuationRoute": "సురక్షిత మార్గం (నీలం)",
+    "showDams": "డ్యామ్‌లు చూపించు",
+    "showShelters": "ఆశ్రయాలు చూపించు",
+    "showFloodZones": "వరద ప్రాంతాలు చూపించు",
+    "radarLayer": "రాడార్ వర్షపాతం",
+    "locateMe": "నా స్థానం",
+    "viewSafeRoute": "సురక్షిత మార్గాన్ని కనుగొనండి"
+  },
+  "flood": {
+    "title": "AI వరద ముందస్తు అంచనా",
+    "subtitle": "రియల్ టైమ్ శాటిలైట్ మరియు సెన్సార్ డేటా మోడల్",
+    "riskScore": "అంచనా వేసిన గరిష్ట ప్రమాదం",
+    "arrivalTime": "వరద వచ్చే సమయం",
+    "affectedDistricts": "ప్రభావిత జిల్లాలు",
+    "recommendations": "AI భద్రతా మార్గదర్శకాలు",
+    "spillwayRecommendation": "సిఫార్సు చేయబడిన నీటి విడుదల",
+    "modelConfidence": "ఖచ్చితత్వం"
+  },
+  "weather": {
+    "title": "వాతావరణం & వర్షపాతం",
+    "currentTemp": "ఉష్ణోగ్రత",
+    "humidity": "తేమ",
+    "wind": "గాలి వేగం",
+    "precipitation": "వర్ష తీవ్రత",
+    "accumulated": "మొత్తం వర్షపాతం",
+    "forecast24h": "24 గంటల అంచనా"
+  },
+  "alerts": {
+    "title": "అత్యవసర హెచ్చరికలు",
+    "criticalTab": "తీవ్ర హెచ్చరికలు",
+    "warningTab": "సలహాలు",
+    "resolvedTab": "పరిష్కరించినవి",
+    "broadcastNotice": "కేంద్ర జల సంఘం హెచ్చరిక",
+    "protocol": "అనుసరించాల్సిన చర్యలు"
+  },
+  "routes": {
+    "title": "సురక్షిత తరలింపు మార్గం",
+    "subtitle": "వరద ముంపు ప్రాంతాలు కాకుండా సురక్షిత దారి",
+    "origin": "ప్రస్తుత స్థానం",
+    "destination": "సమీప ఆశ్రయం",
+    "safetyScore": "మార్గ భద్రతా స్కోరు",
+    "startStepByStep": "నావిగేషన్ ప్రారంభించండి"
+  },
+  "chatbot": {
+    "title": "ప్రవాహ్ AI సహాయకుడు",
+    "tagline": "తక్షణ భద్రతా విచారణ & మార్గదర్శకత్వం",
+    "placeholder": "'నేను సురక్షితంగా ఉన్నానా?', 'సురక్షిత దారి చూపించు'...",
+    "send": "పంపండి",
+    "quick1": "నేను సురక్షితంగా ఉన్నానా?",
+    "quick2": "సురక్షిత దారి చూపించు",
+    "quick3": "డ్యామ్ స్థితి",
+    "quick4": "సమీప ఆశ్రయం"
+  },
+  "reports": {
+    "title": "నివేదికలు & డౌన్‌లోడ్‌లు",
+    "waterReport": "నీటి మట్టాల నివేదిక (PDF)",
+    "rainfallReport": "వర్షపాత విశ్లేషణ (Excel)",
+    "safetyReport": "డ్యామ్ భద్రతా నివేదిక",
+    "simulationReport": "వరద అనుకరణ నివేదిక",
+    "download": "డౌన్‌లోడ్"
+  },
+  "settings": {
+    "title": "సిస్టమ్ సెట్టింగ్‌లు",
+    "profile": "ప్రొఫైల్",
+    "language": "భాష",
+    "notifications": "నోటిఫికేషన్‌లు",
+    "geoTracking": "లొకేషన్ ట్రాకింగ్",
+    "soundAlerts": "సైరన్ శబ్దాలు"
+  }
+}

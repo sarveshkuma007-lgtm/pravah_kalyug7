@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "পানীৰ বাবে বুদ্ধিমত্তা। সকলোৰে বাবে নিৰাপত্তা।",
+  "appSubtitle": "ভাৰতৰ বাবে AI চালিত বান্ধ নিৰীক্ষণ আৰু বান নিৰাপত্তা মঞ্চ",
+  "nav": {
+    "dashboard": "ডেশ্ববৰ্ড",
+    "damMonitoring": "বান্ধ নিৰীক্ষণ",
+    "liveMap": "লাইভ মেপ",
+    "floodPrediction": "বানপানীৰ পূৰ্বাভাস",
+    "weatherForecast": "বতৰৰ পূৰ্বাভাস",
+    "alerts": "জৰুৰীকালীন সতৰ্কবাৰ্তা",
+    "safeRoutes": "নিৰাপদ পথ",
+    "allDams": "সকলো বান্ধৰ তালিকা",
+    "reports": "প্ৰতিবেদন",
+    "settings": "ছেটিংছ",
+    "emergencySos": "জৰুৰীকালীন SOS",
+    "collapse": "সংকোচন",
+    "expand": "প্ৰসাৰণ"
+  },
+  "status": {
+    "normal": "স্বাভাৱিক / নিৰাপদ",
+    "warning": "সতৰ্কতা স্তৰ",
+    "critical": "চৰম বিপদ",
+    "resolved": "সমাধান হৈছে",
+    "standby": "প্ৰস্তুতি",
+    "mandatory": "বাধ্যতামূলক স্থানান্তৰ"
+  },
+  "dashboard": {
+    "statsTitle": "ৰাষ্ট্ৰীয় হাইড্ৰলজিকেল টেলিমেট্ৰি অৱলোকন",
+    "totalDamsMonitored": "মুঠ নিৰীক্ষিত বান্ধ",
+    "normalStatus": "স্বাভাৱিক অৱস্থা",
+    "warningLevel": "সতৰ্কতা স্তৰ",
+    "criticalDanger": "চৰম বিপদ",
+    "activeEmergencyAlerts": "সক্ৰিয় সতৰ্কবাৰ্তা",
+    "peopleAtRisk": "বিপদত থকা জনসংখ্যা",
+    "liveMonitoringGrid": "লাইভ বান্ধ তথ্য প্ৰবাহ",
+    "waterLevelAnalysis": "জলাশয়ৰ জলস্তৰ বিশ্লেষণ",
+    "rainfallOverview": "২৪ ঘণ্টাৰ বৰষুণ",
+    "floodRiskIndex": "বান বিপদ সূচক",
+    "lastSync": "এতিয়াই আপডেট হৈছে"
+  },
+  "dams": {
+    "searchPlaceholder": "নাম বা জিলাৰ দ্বাৰা সন্ধান কৰক...",
+    "stateFilter": "ৰাজ্য",
+    "basinFilter": "নদী অৱবাহিকা",
+    "riskFilter": "বিপদ স্তৰ",
+    "allStates": "সকলো ৰাজ্য",
+    "allBasins": "সকলো অৱবাহিকা",
+    "allRisks": "সকলো স্তৰ",
+    "waterLevel": "জলস্তৰ",
+    "capacity": "ধাৰণ ক্ষমতা",
+    "inflow": "প্ৰৱেশ",
+    "outflow": "নিষ্কাশন",
+    "gates": "খোলা গেট",
+    "rainfall": "বৰষুণ",
+    "healthScore": "গাঁথনিগত স্বাস্থ্য",
+    "viewOnMap": "মেপত চাওক",
+    "viewDetails": "বিস্তাৰিত বিৱৰণ",
+    "fullReservoirLevel": "সৰ্বোচ্চ জলস্তৰ (FRL)",
+    "dangerLevel": "বিপদ সীমা"
+  },
+  "map": {
+    "title": "ৰাষ্ট্ৰীয় লাইভ বান মেপ",
+    "legendTitle": "মেপ স্তৰসমূহ",
+    "userLocation": "আপোনাৰ বৰ্তমান স্থান",
+    "dangerZone": "বিপদজনক অঞ্চল (ৰঙা)",
+    "warningZone": "সতৰ্কতা অঞ্চল (হালধীয়া)",
+    "safeZone": "নিৰাপদ অঞ্চল (সেউজীয়া)",
+    "shelterPoints": "আশ্ৰয় শিবিৰ",
+    "evacuationRoute": "নিৰাপদ পথ (নীলা)",
+    "showDams": "বান্ধ দেখুৱাওক",
+    "showShelters": "আশ্ৰয় দেখুৱাওক",
+    "showFloodZones": "বান অঞ্চল দেখুৱাওক",
+    "radarLayer": "ৰেডাৰ বৰষুণ",
+    "locateMe": "মোৰ স্থান",
+    "viewSafeRoute": "নিৰাপদ পথ বিচাৰক"
+  },
+  "flood": {
+    "title": "AI বান পূৰ্বাভাস ব্যৱস্থা",
+    "subtitle": "উপগ্ৰহ আৰু সংবেদনশীল তথ্যৰ আধাৰত",
+    "riskScore": "আনুমানিক সৰ্বোচ্চ বিপদ",
+    "arrivalTime": "বানপানী অহাৰ সময়",
+    "affectedDistricts": "ক্ষতিগ্ৰস্ত জিলা",
+    "recommendations": "AI সুৰক্ষা নিৰ্দেশনা",
+    "spillwayRecommendation": "পানী নিষ্কাশনৰ পৰামৰ্শ",
+    "modelConfidence": "সঠিকতা"
+  },
+  "weather": {
+    "title": "বতৰ আৰু বৰষুণ",
+    "currentTemp": "তাপমাত্ৰা",
+    "humidity": "আৰ্দ্ৰতা",
+    "wind": "বতাহৰ গতি",
+    "precipitation": "বৰষুণৰ পৰিমাণ",
+    "accumulated": "মুঠ বৰষুণ",
+    "forecast24h": "২৪ ঘণ্টাৰ পূৰ্বাভাস"
+  },
+  "alerts": {
+    "title": "জৰুৰীকালীন বান সতৰ্কবাৰ্তা",
+    "criticalTab": "চৰম সতৰ্কবাৰ্তা",
+    "warningTab": "উপদেশমূলক",
+    "resolvedTab": "সমাধান হোৱা",
+    "broadcastNotice": "কেন্দ্ৰীয় জল আয়োগ বুলেটিন",
+    "protocol": "নাগৰিক নিৰাপত্তা ব্যৱস্থা"
+  },
+  "routes": {
+    "title": "নিৰাপদ স্থানান্তৰ পথ",
+    "subtitle": "জলমগ্ন পথ এৰাই নিৰাপদ যাত্ৰা",
+    "origin": "বৰ্তমান স্থান",
+    "destination": "ওচৰৰ শিবিৰ",
+    "safetyScore": "পথ নিৰাপত্তা স্ক'ৰ",
+    "startStepByStep": "যাত্ৰা আৰম্ভ কৰক"
+  },
+  "chatbot": {
+    "title": "প্ৰৱাহ AI সহায়ক",
+    "tagline": "ক্ষিপ্ৰ নিৰাপত্তা সাহায্য",
+    "placeholder": "'মই নিৰাপদ নে?', 'নিৰাপদ পথ দেখুৱাওক'...",
+    "send": "পঠাওক",
+    "quick1": "মই নিৰাপদ নে?",
+    "quick2": "নিৰাপদ পথ দেখুৱাওক",
+    "quick3": "বান্ধৰ অৱস্থা",
+    "quick4": "ওচৰৰ শিবিৰ"
+  },
+  "reports": {
+    "title": "প্ৰতিবেদন আৰু ডাউনলোড",
+    "waterReport": "জলস্তৰ প্ৰতিবেদন (PDF)",
+    "rainfallReport": "বৰষুণ বিশ্লেষণ (Excel)",
+    "safetyReport": "বান্ধ সুৰক্ষা প্ৰতিবেদন",
+    "simulationReport": "বান চিমুলেচন",
+    "download": "ডাউনলোড"
+  },
+  "settings": {
+    "title": "ছিষ্টেম ছেটিংছ",
+    "profile": "প্ৰ'ফাইল",
+    "language": "ভাষা",
+    "notifications": "জাননী",
+    "geoTracking": "স্থান নিৰীক্ষণ",
+    "soundAlerts": "ছাইৰেন ধ্বনি"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "appName": "PRAVAH",
+  "appTagline": "ଜଳ ପାଇଁ ବୁଦ୍ଧିମତା। ସମସ୍ତଙ୍କ ପାଇଁ ସୁରକ୍ଷା।",
+  "appSubtitle": "ଭାରତ ପାଇଁ AI ଚାଳିତ ଡ୍ୟାମ୍ ନିରୀକ୍ଷଣ ଓ ବନ୍ୟା ସୁରକ୍ଷା ପ୍ଲାଟଫର୍ମ",
+  "nav": {
+    "dashboard": "ଡ୍ୟାସବୋର୍ଡ",
+    "damMonitoring": "ଡ୍ୟାମ୍ ନିରୀକ୍ଷଣ",
+    "liveMap": "ଲାଇଭ୍ ମ୍ୟାପ୍",
+    "floodPrediction": "ବନ୍ୟା ପୂର୍ବାନୁମାନ",
+    "weatherForecast": "ପାଣିପାଗ ପୂର୍ବାନୁମାନ",
+    "alerts": "ଜରୁରୀକାଳୀନ ସତର୍କତା",
+    "safeRoutes": "ନିରାପଦ ରାସ୍ତା",
+    "allDams": "ସମସ୍ତ ଡ୍ୟାମ୍",
+    "reports": "ରିପୋର୍ଟ",
+    "settings": "ସେଟିଂସ",
+    "emergencySos": "ଜରୁରୀକାଳୀନ SOS",
+    "collapse": "ସଙ୍କୁଚିତ କରନ୍ତୁ",
+    "expand": "ପ୍ରସାରିତ କରନ୍ତୁ"
+  },
+  "status": {
+    "normal": "ସାଧାରଣ / ନିରାପଦ",
+    "warning": "ସତର୍କତା ସ୍ତର",
+    "critical": "ଗୁରୁତର ବିପଦ",
+    "resolved": "ସମାଧାନ ହୋଇଛି",
+    "standby": "ପ୍ରସ୍ତୁତି",
+    "mandatory": "ବାଧ୍ୟତାମୂଳକ ସ୍ଥାନାନ୍ତର"
+  },
+  "dashboard": {
+    "statsTitle": "ଜାତୀୟ ଜଳ ବିଜ୍ଞାନ ତଥ୍ୟ ସମୀକ୍ଷା",
+    "totalDamsMonitored": "ସମୁଦାୟ ନିରୀକ୍ଷିତ ଡ୍ୟାମ୍",
+    "normalStatus": "ସାଧାରଣ ସ୍ଥିତି",
+    "warningLevel": "ସତର୍କତା ସ୍ତର",
+    "criticalDanger": "ଗୁରୁତର ବିପଦ",
+    "activeEmergencyAlerts": "ସକ୍ରିୟ ସତର୍କତା",
+    "peopleAtRisk": "ବିପଦରେ ଥିବା ଜନସଂଖ୍ୟା",
+    "liveMonitoringGrid": "ଲାଇଭ୍ ଡ୍ୟାମ୍ ତଥ୍ୟ ପ୍ରବାହ",
+    "waterLevelAnalysis": "ଜଳସ୍ତର ବିଶ୍ଳେଷଣ",
+    "rainfallOverview": "୨୪ ଘଣ୍ଟାର ବର୍ଷା",
+    "floodRiskIndex": "ବନ୍ୟା ବିପଦ ସୂଚକାଙ୍କ",
+    "lastSync": "ଏବେ ଅଦ୍ୟତନ ହୋଇଛି"
+  },
+  "dams": {
+    "searchPlaceholder": "ଡ୍ୟାମ୍, ନଦୀ କିମ୍ବା ଜିଲ୍ଲା ଅନୁସାରେ ଖୋଜନ୍ତୁ...",
+    "stateFilter": "ରାଜ୍ୟ",
+    "basinFilter": "ନଦୀ ଅବବାହିକା",
+    "riskFilter": "ବିପଦ ସ୍ଥିତି",
+    "allStates": "ସମସ୍ତ ରାଜ୍ୟ",
+    "allBasins": "ସମସ୍ତ ଅବବାହିକା",
+    "allRisks": "ସମସ୍ତ ସ୍ତର",
+    "waterLevel": "ଜଳସ୍ତର",
+    "capacity": "ଧାରଣ କ୍ଷମତା",
+    "inflow": "ଜଳ ପ୍ରବେଶ",
+    "outflow": "ଜଳ ନିଷ୍କାସନ",
+    "gates": "ଖୋଲା ଗେଟ୍",
+    "rainfall": "ବର୍ଷା",
+    "healthScore": "ଗଠନଗତ ସୁରକ୍ଷା",
+    "viewOnMap": "ମ୍ୟାପରେ ଦେଖନ୍ତୁ",
+    "viewDetails": "ସବିଶେଷ ତଥ୍ୟ",
+    "fullReservoirLevel": "ସମ୍ପୂର୍ଣ୍ଣ ଜଳସ୍ତର (FRL)",
+    "dangerLevel": "ବିପଦ ସଙ୍କେତ ସ୍ତର"
+  },
+  "map": {
+    "title": "ଜାତୀୟ ଲାଇଭ୍ ବନ୍ୟା ବିପଦ ମାନଚିତ୍ର",
+    "legendTitle": "ମ୍ୟାପ୍ ସ୍ତର",
+    "userLocation": "ଆପଣଙ୍କ ବର୍ତ୍ତମାନର ସ୍ଥାନ",
+    "dangerZone": "ଅତ୍ୟଧିକ ବିପଦ ଅଞ୍ଚଳ (ନାଲି)",
+    "warningZone": "ସତର୍କତା ଅଞ୍ଚଳ (ହଳଦିଆ)",
+    "safeZone": "ନିରାପଦ ଅଞ୍ଚଳ (ସବୁଜ)",
+    "shelterPoints": "ଆଶ୍ରୟସ୍ଥଳୀ",
+    "evacuationRoute": "ନିରାପଦ ରାସ୍ତା (ନୀଳ)",
+    "showDams": "ଡ୍ୟାମ୍ ଦେଖାନ୍ତୁ",
+    "showShelters": "ଆଶ୍ରୟ ଦେଖାନ୍ତୁ",
+    "showFloodZones": "ବନ୍ୟା ଅଞ୍ଚଳ ଦେଖାନ୍ତୁ",
+    "radarLayer": "ରାଡାର ବର୍ଷା",
+    "locateMe": "ମୋ ସ୍ଥାନ",
+    "viewSafeRoute": "ନିରାପଦ ବାଟ ଖୋଜନ୍ତୁ"
+  },
+  "flood": {
+    "title": "AI ବନ୍ୟା ପୂର୍ବାନୁମାନ ବ୍ୟବସ୍ଥା",
+    "subtitle": "ଉପଗ୍ରହ ଓ ସେନ୍ସର ଆଧାରିତ ମଡେଲ",
+    "riskScore": "ସମ୍ଭାବ୍ୟ ସର୍ବାଧିକ ବିପଦ",
+    "arrivalTime": "ବନ୍ୟା ଆସିବା ସମୟ",
+    "affectedDistricts": "କ୍ଷତିଗ୍ରସ୍ତ ଜିଲ୍ଲା",
+    "recommendations": "AI ସୁରକ୍ଷା ନିର୍ଦ୍ଦେଶ",
+    "spillwayRecommendation": "ପରାମର୍ଶିତ ଜଳ ଛାଡ଼ିବା ହାର",
+    "modelConfidence": "ସଠିକତା"
+  },
+  "weather": {
+    "title": "ପାଣିପାଗ ଓ ବର୍ଷା",
+    "currentTemp": "ତାପମାତ୍ରା",
+    "humidity": "ଆର୍ଦ୍ରତା",
+    "wind": "ପବନର ବେଗ",
+    "precipitation": "ବର୍ଷାର ତୀବ୍ରତା",
+    "accumulated": "ମୋଟ ବର୍ଷା",
+    "forecast24h": "୨୪ ଘଣ୍ଟାର ପୂର୍ବାନୁମାନ"
+  },
+  "alerts": {
+    "title": "ଜରୁରୀକାଳୀନ ବନ୍ୟା ଚେତାବନୀ",
+    "criticalTab": "ଗୁରୁତର ଚେତାବନୀ",
+    "warningTab": "ପରାମର୍ଶ",
+    "resolvedTab": "ସମାଧାନ ହୋଇଛି",
+    "broadcastNotice": "କେନ୍ଦ୍ରୀୟ ଜଳ ଆୟୋଗ ସୂଚନା",
+    "protocol": "ନାଗରିକ ସୁରକ୍ଷା ପଦକ୍ଷେପ"
+  },
+  "routes": {
+    "title": "ନିରାପଦ ସ୍ଥାନାନ୍ତରଣ ପଥ",
+    "subtitle": "ପାଣି ଜମିଥିବା ରାସ୍ତା ଏଡ଼ାଇ ସୁରକ୍ଷିତ ଯାତ୍ରା",
+    "origin": "ବର୍ତ୍ତମାନର ସ୍ଥାନ",
+    "destination": "ନିକଟତମ ଆଶ୍ରୟସ୍ଥଳୀ",
+    "safetyScore": "ମାର୍ଗ ସୁରକ୍ଷା ସ୍କୋର",
+    "startStepByStep": "ମାର୍ଗଦର୍ଶନ ଆରମ୍ଭ କରନ୍ତୁ"
+  },
+  "chatbot": {
+    "title": "ପ୍ରବାହ AI ସହାୟକ",
+    "tagline": "ତୁରନ୍ତ ସୁରକ୍ଷା ସହାୟତା",
+    "placeholder": "'ମୁଁ ସୁରକ୍ଷିତ କି?', 'ନିରାପଦ ବାଟ ଦେଖାନ୍ତୁ'...",
+    "send": "ପଠାନ୍ତୁ",
+    "quick1": "ମୁଁ ସୁରକ୍ଷିତ କି?",
+    "quick2": "ନିରାପଦ ବାଟ ଦେଖାନ୍ତୁ",
+    "quick3": "ଡ୍ୟାମ୍ ସ୍ଥିତି",
+    "quick4": "ନିକଟତମ ଆଶ୍ରୟସ୍ଥଳୀ"
+  },
+  "reports": {
+    "title": "ରିପୋର୍ଟ ଏବଂ ଡାଉନଲୋଡ",
+    "waterReport": "ଜଳସ୍ତର ରିପୋର୍ଟ (PDF)",
+    "rainfallReport": "ବର୍ଷା ବିଶ୍ଳେଷଣ (Excel)",
+    "safetyReport": "ଡ୍ୟାମ୍ ସୁରକ୍ଷା ରିପୋର୍ଟ",
+    "simulationReport": "ବନ୍ୟା ସିମୁଲେସନ",
+    "download": "ଡାଉନଲୋଡ"
+  },
+  "settings": {
+    "title": "ସିଷ୍ଟମ ସେଟିଂସ",
+    "profile": "ପ୍ରୋଫାଇଲ",
+    "language": "ଭାଷା",
+    "notifications": "ବିଜ୍ଞପ୍ତି",
+    "geoTracking": "ସ୍ଥାନ ଟ୍ରାକିଂ",
+    "soundAlerts": "ସାଇରନ ଧ୍ୱନି"
+  }
+}
